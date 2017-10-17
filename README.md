@@ -40,3 +40,5 @@ It is  homework 1 of data strcture  in NCTU
 </pre>
 
 # 2.Approach Works:
+Explain my approach to solve the problem in detail. We can follow these steps following to upon pseudo code.
+--------------------
