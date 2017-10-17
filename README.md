@@ -2,7 +2,9 @@
 It is  homework 1 of data strcture  in NCTU
 
 Report(2017DS_Prog1)
-	Pseudo Code:
+
+Pseudo Code:
+
 1..While  input_file! =Null      
 2.	Do 
 If(We obtain equals to “#”)
