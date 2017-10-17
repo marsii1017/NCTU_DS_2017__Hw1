@@ -2,5 +2,6 @@
 =====================
 It is  homework 1 of data strcture  in NCTU
 ----------------
+# 1.	Pseudo Code:
 
 
