@@ -42,3 +42,15 @@ It is  homework 1 of data strcture  in NCTU
 # 2.Approach Works:
 Explain my approach to solve the problem in detail. We can follow these steps following to upon pseudo code.
 --------------------
+<pre>
+1. Read “input_file.txt”.
+2.Divide the input data and disparate save to Data 2D and direction (Both is 2-D daynamic Matrix.). We completed this step by the delimiter “#”.
+3.Read Instruction and send data to temp_queue
+4.Compare and exchange deque1 and deque2 in figure of 
+  PDF file.
+5.Pop the from 0th to 〖(max_push)〗^th of the Data2D.
+6.Determine which data will sort with priority.
+  One case is that temp_queue is earlier than compar_a.
+	   Another case is that compar_a is ealier than temp_queue. 
+
+</pre>
