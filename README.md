@@ -6,7 +6,7 @@ It is  homework 1 of data strcture  in NCTU
 <pre>
 1.While  input_file! =Null      
 2.	Do 
-If(We obtain equals to “#”)
+		If(We obtain equals to “#”)
 		Then infor_end=1;
 		else ( We obtain !=”#”)
 			if( infor_end equals to 1)
@@ -14,6 +14,9 @@ If(We obtain equals to “#”)
 			else save the row to direction;
 			ENDIF;
 		ENDIF;
+   Then save to Data2D   
+   ENDWHILE
+
 </pre>
 
 
