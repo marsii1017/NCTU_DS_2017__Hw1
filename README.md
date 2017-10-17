@@ -58,3 +58,10 @@ Explain my approach to solve the problem in detail. We can follow these steps fo
 <pre>
 We must consider the two-dimension dynamic array. The number of direction is (n-1) and we operate at most n rows in a loop. SO, the max number of operating is n*(n-1). we can infer the time complexity of this program is O〖(n〗^2).   
 </pre>
+# 4.What we learn in this problem:
+<pre>
+1.	Divide the big problem to many small tasks.
+2.	Be familiar with two-dimension dynamic arrays 
+3.	Handle with queue and stack function.
+4.	Practice reading and writing files. 
+</pre>
