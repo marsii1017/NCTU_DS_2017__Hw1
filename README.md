@@ -54,3 +54,7 @@ Explain my approach to solve the problem in detail. We can follow these steps fo
 	   Another case is that compar_a is ealier than temp_queue. 
 
 </pre>
+# 3.Time Complexity:
+<pre>
+We must consider the two-dimension dynamic array. The number of direction is (n-1) and we operate at most n rows in a loop. SO, the max number of operating is n*(n-1). we can infer the time complexity of this program is O〖(n〗^2).   
+</pre>
